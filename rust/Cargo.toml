@@ -1,0 +1,13 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["dox"]
+
+
+[dependencies]
+rayon = "0.8.1"
+postgres = "0.14.2"
+tokio-core = "0.1.8"
+tokio-io = "0.1.2"
+futures = "0.1.14"
+llvm-sys = "40.0.2"
